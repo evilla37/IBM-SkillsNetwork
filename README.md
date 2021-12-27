@@ -1,1 +1,1 @@
-# Pandas-with-IBM-Watson-Studio
+# IBM-Skills-Network
